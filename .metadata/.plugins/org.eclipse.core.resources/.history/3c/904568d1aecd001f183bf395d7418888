@@ -1,0 +1,6 @@
+package com.vendor.repository;
+
+;;import com.vendor.entity.Vendor
+public class VendorRepo  {
+
+}

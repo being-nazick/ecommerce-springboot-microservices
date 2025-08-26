@@ -1,0 +1,19 @@
+package com.vendor.entity;
+
+import jakarta.persistence.Entity;
+
+
+@Entity
+@Data
+public class Vendor {
+
+	private Long vendorId;
+	private String name;
+	private String mailId;
+	private String phoneNo;
+	private String password;
+	
+	
+	
+	
+}

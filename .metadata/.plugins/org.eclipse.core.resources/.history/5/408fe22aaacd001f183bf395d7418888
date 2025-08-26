@@ -1,0 +1,3 @@
+spring.application.name=Eureka-server
+server.port=8761
+
