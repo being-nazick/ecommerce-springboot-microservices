@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spring Microservices - Sprint Final
 
 ## Services and Ports
