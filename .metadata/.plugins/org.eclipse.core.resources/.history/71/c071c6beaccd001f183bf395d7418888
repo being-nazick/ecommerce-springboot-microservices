@@ -1,7 +1,0 @@
-package com.vendor.dto;
-
-import org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration;
-
-public class VendorRepository extends JpaRepository<>{
-
-}

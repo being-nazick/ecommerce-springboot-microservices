@@ -1,7 +1,0 @@
-package com.vendor.dto;
-
-import com.vendor.entity.Vendor;
-
-public class VendorRepository extends JpaRepository<Vendor,Long>{
-
-}
